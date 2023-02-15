@@ -4,19 +4,19 @@
 **Evgenii083/Evgenii083** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm Evgenii - QA Tester. I’m currently learning automatization testing on Java and here’s a list I can :
+I'm Evgenii - QA Tester. I’m currently learning automatization testing on Java and here’s a what i've gote so far :
 
 #### Hard Skills: 
 - Test Analysis and Test Design; 
 - Manual testing;
-- Bub reporting;
+- Bug reporting;
 - UI testing on Java; 
 - Postgres SQL; 
 - HTML basics; 
 - Operating systems: Linux , MacOS; 
 - Git;
 
-#### These tools i'm using :  
+#### Tools:  
 - Intellij Idea / VS Code;
 - Selenium / Selenide
 - Docker;
@@ -27,9 +27,11 @@ I'm Evgenii - QA Tester. I’m currently learning automatization testing on Java
 - Chrome developer tools
 
 
-#### My soft skills is : 
+#### Soft skills: 
 Organizational and leadership skills, presentation skills and effective managing of information, problem-solving attitude, taking initiative, proposing improvements and solutions, analytical approach, critical eye, high level of responsibility, ability to work autonomously;
-Languages: English - B1.
+
+#### Languages: 
+English - B1.
 
 #### Contact information : 
 
