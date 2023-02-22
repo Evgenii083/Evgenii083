@@ -22,6 +22,8 @@ I'm Evgenii - QA Tester. I’m currently learning automatization testing on Java
 - Docker;
 - DBeaver;
 - Postman;
+- Report Portal / Allure
+- Appveyor / GitHub Actions
 - JMeter;
 - Jira
 - Chrome developer tools
