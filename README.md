@@ -4,7 +4,7 @@
 **Evgenii083/Evgenii083** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm Evgenii - QA Tester. I’m currently learning automatization testing on Java and here’s a what i've gote so far :
+I'm Evgenii - QA Tester. I’m currently learning automatization testing on Java and Python and here’s a what i've got so far :
 
 #### Hard Skills: 
 - Test Analysis and Test Design; 
