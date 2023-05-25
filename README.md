@@ -10,7 +10,7 @@ I'm Evgenii - QA Tester. I’m currently learning automatization testing on Java
 - Test Analysis and Test Design; 
 - Manual testing;
 - Bug reporting;
-- UI testing on Java; 
+- UI testing on Java/Python; 
 - Postgres SQL; 
 - HTML basics; 
 - Operating systems: Linux , MacOS; 
