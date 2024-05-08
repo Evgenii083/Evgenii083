@@ -4,7 +4,6 @@
 
 -->
 
-I'm Evgenii - QA Tester. I’m currently learning automatization testing on Java and Python and here’s a what i've got so far :
 
 #### Hard Skills: 
 - Test Analysis and Test Design; 
