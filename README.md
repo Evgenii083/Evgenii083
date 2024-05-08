@@ -1,7 +1,7 @@
 ### Hi there 👋
-
-<!--
 I'm Evgenii, and I'm on a path to become a professional backend developer. I'm currently deepening my skills in Python and Go, aiming to build powerful and efficient server applications.
+<!--
+
 -->
 
 
